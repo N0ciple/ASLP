@@ -1,4 +1,4 @@
-# Extracting Effective Subnetworks with Gumebel-Softmax
+# Extracting Effective Subnetworks with Gumbel-Softmax
 _by Robin Dupont, Mohammed Amine Alaoui, Hichem Sahbi, Alice Lebois_
 
 📜 arxiv : https://arxiv.org/abs/2202.12986
